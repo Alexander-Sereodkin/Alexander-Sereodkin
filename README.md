@@ -9,6 +9,9 @@ Frontend Developer from Belgorod 👩🏻‍💻
 <br>
 
 
+[![Profile badge](https://www.codewars.com/users/Alexander-Sereodkin/badges/large)](https://www.codewars.com/users/Alexander-Sereodkin/badges/large)
+![](https://leetcard.jacoblin.cool/Alexander-Sereodkin?ext=heatmap)
+
 
 <h2 align="left" id="sereodkin-stack">🔥 Tech stack</h2>
 
@@ -299,8 +302,3 @@ Frontend Developer from Belgorod 👩🏻‍💻
 - :comet: &nbsp;**[Github](https://github.com/Alexander-Sereodkin)**
 
 <br>
-
-
-
-![](https://leetcard.jacoblin.cool/Alexander-Sereodkin?ext=heatmap)
-
