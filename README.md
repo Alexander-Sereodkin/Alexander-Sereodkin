@@ -1,5 +1,5 @@
 
-# 👋 Hello there! I'm Dmitry Babin 
+# 👋 Hello there! I'm Alexandr Seredkin
 
 Frontend Developer from Belgorod 👩🏻‍💻
 
