@@ -1,10 +1,8 @@
 
-# 👋 Hello there! I'm Alexandr Seredkin
+# 👋 Hello there! I'm Warler
 
-Frontend Developer from Belgorod 👩🏻‍💻
+Frontend Developer 👩🏻‍💻
 
-- :office: &nbsp;I'm currently working at **[DvG-Project](https://dvg-project.com/customdev/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/sex_sensai)**
 
 <br>
 
