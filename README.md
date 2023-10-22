@@ -1,5 +1,5 @@
 
-# 👋 Hello there! I'm Warler
+# 👋 Hello there! I'm Alexnadr Seredkin
 
 Frontend Developer 👩🏻‍💻
 
