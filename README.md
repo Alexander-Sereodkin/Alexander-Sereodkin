@@ -7,8 +7,7 @@ Frontend Developer 👩🏻‍💻
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandr-seredkin&size_weight=0.5&count_weight=0.5)
-![](https://leetcard.jacoblin.cool/Alexander-Sereodkin?ext=heatmap)
+
 
 
 <h2 align="left" id="sereodkin-stack">🔥 Tech stack</h2>
@@ -299,4 +298,5 @@ Frontend Developer 👩🏻‍💻
 <br>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandr-seredkin&size_weight=0.5&count_weight=0.5)
+![](https://leetcard.jacoblin.cool/Alexander-Sereodkin?ext=heatmap)
