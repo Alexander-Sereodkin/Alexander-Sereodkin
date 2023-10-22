@@ -294,10 +294,7 @@ Frontend Developer 👩🏻‍💻
 
 ## ☄️ Contact
 
-- :bird: &nbsp;**[VK](https://vk.com/your_pilotka)**
 - :airplane: &nbsp;**[Telegram](https://t.me/sex_sensai)**
-- :popcorn: &nbsp;**[Twitch](https://www.twitch.tv/salemdev)**
-- :comet: &nbsp;**[Github](https://github.com/Alexander-Sereodkin)**
 
 <br>
 
