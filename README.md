@@ -1,13 +1,7 @@
 
 # 👋 Hello there! I'm Alexnadr Seredkin
 
-Frontend Developer 👩🏻‍💻
-
-
-<br>
-
-
-
+I'm Fullstack Developer from Belgorod 👩🏻‍💻
 
 
 <h2 align="left" id="sereodkin-stack">🔥 Tech stack</h2>
