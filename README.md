@@ -291,7 +291,7 @@ I'm Fullstack Developer from Belgorod 👩🏻‍💻
 
 <br>
 
-<img width="536" src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe"/>
+<img width="336" src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandr-seredkin&size_weight=0.5&count_weight=0.5)
 ![](https://leetcard.jacoblin.cool/Alexander-Sereodkin?ext=heatmap)
