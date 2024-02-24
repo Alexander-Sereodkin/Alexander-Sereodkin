@@ -287,7 +287,7 @@ I'm Fullstack Developer from Belgorod 👩🏻‍💻
 
 ## ☄️ Contact
 
-- :airplane: &nbsp;**[Telegram](https://t.me/sex_sensai)**
+- :airplane: &nbsp;**[Telegram](https://t.me/meownessss)**
 
 <br>
 
