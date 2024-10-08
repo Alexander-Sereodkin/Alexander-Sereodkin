@@ -285,13 +285,11 @@ I'm Fullstack Developer from Belgorod 👩🏻‍💻
   </tr> 
 </table>
 
+<img width="336" src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png#update" alt="TryHackMe"/>
+
 ## ☄️ Contact
 
 - :airplane: &nbsp;**[Telegram](https://t.me/meownessss)**
 
 <br>
 
-<img width="336" src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png#update" alt="TryHackMe"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandr-seredkin&size_weight=0.5&count_weight=0.5)
-![](https://leetcard.jacoblin.cool/Alexander-Sereodkin?ext=heatmap)
