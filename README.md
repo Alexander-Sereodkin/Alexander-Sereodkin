@@ -4,7 +4,6 @@
 
 ## Контакты
 
-- **Телефон:** +7 (910) 326-05-84
 - **Телеграмм:** [@jjsjdicieowowjcjxoso](https://t.me/jjsjdicieowowjcjxoso)
 - **Почта:** [swarm-frame-flock@duck.com](mailto:swarm-frame-flock@duck.com)
 - **Мой сайт:** [https://alexandr-seredkin.ru/](https://alexandr-seredkin.ru/)
